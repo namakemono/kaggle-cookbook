@@ -1,0 +1,53 @@
+name,deadline,domain,category,field,evaluation,url
+RANZCR CLiP - Catheter and Line Position Challenge,,,,医療,AUC,https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
+VinBigData Chest X-ray Abnormalities Detection,,,,医療,mAP,https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
+Bristol-Myers Squibb – Molecular Translation,,image data,画像 ⇒ テキスト,化学,レーベンシュタイン距離,https://www.kaggle.com/c/bms-molecular-translation
+Human Protein Atlas - Single Cell Classification,,,,,,https://www.kaggle.com/c/hpa-single-cell-image-classification
+Hungry Geese,,,,強化学習,,https://www.kaggle.com/c/hungry-geese
+HuBMAP - Hacking the Kidney,,,,,,https://www.kaggle.com/c/hubmap-kidney-segmentation
+Jane Street Market Prediction,,,,,,https://www.kaggle.com/c/jane-street-market-prediction
+Zillow Prize: Zillow’s Home Value Prediction (Zestimate),,,,,MAE,https://www.kaggle.com/c/zillow-prize-1
+2019 Data Science Bowl,,,,,,https://www.kaggle.com/c/data-science-bowl-2019
+Ultrasound Nerve Segmentation,,,,,ダイス係数,https://www.kaggle.com/c/ultrasound-nerve-segmentation
+Mercari Price Suggestion Challenge,,,,,RMSLE,https://www.kaggle.com/c/mercari-price-suggestion-challenge
+Home Credit Default Risk,,,,,,https://www.kaggle.com/c/tgs-salt-identification-challenge
+TGS Salt Identification Challenge,,,,,,https://www.kaggle.com/c/home-credit-default-risk
+Jigsaw Unintended Bias in Toxicity Classification,,text data,テキスト分類,,AUC,https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+Santander Customer Satisfaction,2016/5/3,tabular data,テーブルデータの二値分類,,AUC,https://www.kaggle.com/c/santander-customer-satisfaction
+Santander Value Prediction Challenge,2018/8/21,,,金融,RMSLE,https://www.kaggle.com/c/santander-value-prediction-challenge
+OSIC Pulmonary Fibrosis Progression,2020/10/7,,,,Laplace Log,https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
+Elo Merchant Category Recommendation,2019/2/27,,regression,金融,rmse,https://www.kaggle.com/c/coupon-purchase-prediction
+,,,,,,https://www.kaggle.com/c/elo-merchant-category-recommendation
+,,,,,,https://www.kaggle.com/c/aptos2019-blindness-detection
+,,,,,,https://www.kaggle.com/c/tensorflow2-question-answering
+,,,,,,https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+,,,,,,https://www.kaggle.com/c/m5-forecasting-accuracy
+,,,,,,https://www.kaggle.com/c/rossmann-store-sales
+,,,,,,https://www.kaggle.com/c/lish-moa
+,,,,,,https://www.kaggle.com/c/quora-question-pairs
+,,,,,,https://www.kaggle.com/c/sberbank-russian-housing-market
+,,,,,,https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
+,,,,,,https://www.kaggle.com/c/instacart-market-basket-analysis
+,,,,,,https://www.kaggle.com/c/carvana-image-masking-challenge
+,,,,,,https://www.kaggle.com/c/web-traffic-time-series-forecasting
+,,,,,,https://www.kaggle.com/c/text-normalization-challenge-english-language
+,,,,,,https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+,,,,,,https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
+,,,,,,https://www.kaggle.com/c/avito-demand-prediction
+,,,,,,https://www.kaggle.com/c/quora-insincere-questions-classification
+,,,,,,https://www.kaggle.com/c/santa-workshop-tour-2019
+,,,,,,https://www.kaggle.com/c/alaska2-image-steganalysis
+,,,,,,https://www.kaggle.com/c/birdsong-recognition
+,,,,,,https://www.kaggle.com/c/homesite-quote-conversion
+,,,,,,https://www.kaggle.com/c/cassava-leaf-disease-classification
+,,,,,,https://www.kaggle.com/c/tweet-sentiment-extraction
+,,,,,,https://www.kaggle.com/c/bengaliai-cv19
+,,,,,,https://www.kaggle.com/c/instant-gratification
+,,,,,,https://www.kaggle.com/c/how-much-did-it-rain-ii
+,,,,,,https://www.kaggle.com/c/two-sigma-financial-news
+,,,,,,https://www.kaggle.com/c/landmark-recognition-2020
+,,,,,,https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track
+,,,,,,https://www.kaggle.com/c/google-football
+,,,,,,https://www.kaggle.com/c/landmark-recognition-challenge
+,,,,,,https://www.kaggle.com/c/landmark-retrieval-challenge
+,,,,,,https://www.kaggle.com/c/santa-2020
