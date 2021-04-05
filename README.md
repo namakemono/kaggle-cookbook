@@ -4,7 +4,8 @@ Kaggleコンペの上位の方々の解法やアルゴリズムについて紹�
 
 ## 内容
 
-| コンペ | 概要 || 
+| コンペ | 概要 |
+| ---- | ------ |
 | [Cassava Leaf Disease Classification](docs/Survey - Cassava Leaf Disease Classification.ipynb) | キャッサバ(タピオカの原料)の葉の病変分類 |
 | [Global Wheat Detection](docs/Survey - Global Wheat Detection.ipynb) | 小麦の穂の検出 |
 | [Google QUEST Q&A Labeling](docs/Survey - Google QUEST Q&A Labeling.ipynb) | |
